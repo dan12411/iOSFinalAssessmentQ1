@@ -17,4 +17,4 @@
 ---
 參考連結：
 
-https://itisjoe.gitbooks.io/swiftgo/content/ch1/control_flow.html#while_loop
+[Swift 起步走 - While 循環](https://itisjoe.gitbooks.io/swiftgo/content/ch1/control_flow.html#while_loop)
