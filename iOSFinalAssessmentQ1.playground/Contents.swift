@@ -1,5 +1,16 @@
-//: Playground - noun: a place where people can play
+// iOS Final Assessment Q1
+// 計算 1 ~ 100 中奇數的總和
 
-import UIKit
+var i = 0
+var sum = 0
 
-var str = "Hello, playground"
+while i < 101 {
+    while i % 2 != 0 {
+        sum += i
+        i += 1
+    }
+    while i % 2 == 0 {
+        i += 1
+    }
+}
+
