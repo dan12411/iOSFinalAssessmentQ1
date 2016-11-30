@@ -13,3 +13,8 @@
 再用裡面的while循環，判斷數字是奇數，還是偶數，如果是奇數就累加起來，
 
 並且不管是奇數，還是偶數，都加上1，直到數字超過100。
+
+---
+參考連結：
+
+https://itisjoe.gitbooks.io/swiftgo/content/ch1/control_flow.html#while_loop
